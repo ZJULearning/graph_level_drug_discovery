@@ -1,5 +1,5 @@
-# Graph-Level Drug Discovery
-Paper Link: Learning Graph-Level Representation for Drug Discovery](https://arxiv.org/abs/1709.03741)
+# Learning Graph-Level Representation for Drug Discovery
+Paper Link: [Learning Graph-Level Representation for Drug Discovery](https://arxiv.org/abs/1709.03741)
 
 
 ## Requirements
@@ -7,7 +7,7 @@ Paper Link: Learning Graph-Level Representation for Drug Discovery](https://arxi
 ## Usage
 1.Clone the repository
 
-	git clone https://github.com/endernewton/tf-faster-rcnn.git
+	git clone https://github.com/microljy/graph_level_drug_discovery.git
 
 2.Training 
 
@@ -18,9 +18,9 @@ Our ```train.py``` only support 6 datasets in MoleculeNet, including Tox21, ToxC
 ## Citation
 Please cite DREN in your publications if it helps your research:
 
-	@article{Li2017Deep,
-	  Title={Deep Rotation Equivariant Network},
-	  Journal={arXiv preprint arXiv:1705.08623},
-	  Author={Li, Junying and Yang, Zichen and Liu, Haifeng and Cai, Deng},
+	@article{Li2017Learning,
+	  Title={Learning Graph-Level Representation for Drug Discoveryk},
+	  Journal={arXiv preprint arXiv:1709.03741},
+	  Author={Junying Li, Deng Cai, Xiaofei He},
 	  Year={2017},
 	}
