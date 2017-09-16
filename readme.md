@@ -13,10 +13,10 @@ Paper Link: [Learning Graph-Level Representation for Drug Discovery](https://arx
 
 	python train.py --gpu 0 --dataset pcba
 
-Our ```train.py``` only support 6 datasets in MoleculeNet, including Tox21, ToxCast, HIV, MUV, PCBA, SAMPL.
+Our ```train.py``` only supports 6 datasets in MoleculeNet, including Tox21, ToxCast, HIV, MUV, PCBA, SAMPL.
 
 ## Citation
-Please cite DREN in your publications if it helps your research:
+Please cite our work in your publications if it helps your research:
 
 	@article{Li2017Learning,
 	  Title={Learning Graph-Level Representation for Drug Discoveryk},
