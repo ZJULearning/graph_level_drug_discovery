@@ -3,7 +3,8 @@ Paper Link: [Learning Graph-Level Representation for Drug Discovery](https://arx
 
 
 ## Requirements
-- Install [DeepChem](https://github.com/deepchem/deepchem)
+- Install [DeepChem(july2017)](https://github.com/deepchem/deepchem/tree/july2017)
+
 ## Usage
 1.Clone the repository
 
