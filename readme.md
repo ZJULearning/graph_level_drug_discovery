@@ -8,7 +8,7 @@ Paper Link: [Learning Graph-Level Representation for Drug Discovery](https://arx
 ## Usage
 1.Clone the repository
 
-	git clone https://github.com/microljy/graph_level_drug_discovery.git
+	git clone https://github.com/ZJULearning/graph_level_drug_discovery.git
 
 2.Training 
 
